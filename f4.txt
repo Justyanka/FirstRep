@@ -1,3 +1,4 @@
 save it
 line from user2 another line from user1
 another one from user2
+line from user2 - rebase
